@@ -13,4 +13,3 @@ Baseada em NODE.js e MongoDB
   ` GET`
  ` UPDATE`
  ` DELETE`
-
